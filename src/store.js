@@ -28,13 +28,11 @@ export default new Vuex.Store({
     ]
   },
   getters: {
-    links: (state) => {
-      return state.items
-    }
+    links: state => state.items
   },
   mutations: {
-    setDrawer: (state, payload) => (state.drawer = payload),
-    toggleDrawer: state => (state.drawer = !state.drawer)
+    setDrawer: (state, payload) => state.drawer = payload,
+    toggleDrawer: state => state.drawer = !state.drawer
   },
   actions: {
 
