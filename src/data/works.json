@@ -1,0 +1,30 @@
+[
+  {
+    "color": "#083759",
+    "year": "～2016",
+    "title": "HOPE AND FRUSTRATION",
+    "description": "学生時代からIT分野に興味があり情報工学を専攻。技術を強みに社会に貢献したいという思いがあり、これを実現できる企業に就職活動を行い某SIerに入社。しかし、仕事で技術力を磨くことよりも顧客対応や資料作成が多く、理想としていた社会人とは違う結果に･･･ 3年目で小規模のチームを任せてもらうことになるが、プロジェクトは炎上してくなかで自身の無力さを痛感。",
+    "technology": "Java, RDB(自社製品), SVN, Jenkins, JUnit, Linux"
+  },
+  {
+    "color": "#CBAA5C",
+    "year": "2017",
+    "title": "TRAINING TECHNOLOGY",
+    "description": "プロジェクトを成功させるスキルを身に付けるため、技術統括部に異動を願い出る。熱意を認めてもらい、転属が実現する。転属後は某大手金融機関の新規事業開発案件に参画。ほぼ毎日新しい技術を学ぶことができ、技術の面白さを再確認することができた。そして身につけた技術でプロジェクトに貢献することができるようになる。",
+    "technology": "Blockchain(BTC), AWS(EC2, ELB, RDS), Java, OOP, SpringFramework, MySQL, MyBatis, Jenkins, Gradle, JUnit, Linux, Git"
+  },
+  {
+    "color": "#083759",
+    "year": "2018",
+    "title": "ACHIEVE AWARDS",
+    "description": "引き続き大手金融機関の新規事業開発案件に従事。同案件の2次開発では社内で初の金融系アジャイル案件に参画。スクラムマスターとしてプロジェクトを成功に導き社内表彰を受賞。より高い成果を出すためには、技術力だけでなくマネジメント力を伸ばす必要があると感じ、チームマネジメントにも興味を持つ。また、グループ社内のHR系の機械学習案件にも参画し、技術的な難易度の高い案件も経験する。",
+    "technology": "Scrum, MachineLearing, SPSS, AWS(EC2, ELB, RDS), Java, OOP, SpringFramework, MySQL, MyBatis, Jenkins, Gradle, JUnit, Linux, Git"
+  },
+  {
+    "color": "#CBAA5C",
+    "year": "2019",
+    "title": "BUILD A VALUE",
+    "description": "某自動車会社様とのPoC案件に参画。プロダクト開発、顧客折衝などの案件に関わる仕事を1人で担当する。PoCで顧客に満足してもらうためには、ただシステムを作るだけではなく価値を作ることが必要だと学ぶ。今後は開発システムを汎用化し新規事業として拡販活動にも従事する予定。",
+    "technology": "MicroService, AWS(ECS, Fargate, SES, DynamoDB, etc), Node.js, Express,  Python, Keras, Selenium, Nifi, Scrum, Git"
+  }
+]

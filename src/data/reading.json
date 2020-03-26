@@ -1,0 +1,198 @@
+[
+  {
+    "title": "正しいものを正しくつくる",
+    "author": "市谷聡啓",
+    "category": "Book",
+    "hero": "tadasiimono.jpg",
+    "ref": "https://www.amazon.co.jp/dp/4802511191"
+  },
+  {
+    "title": "ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装",
+    "author": "斎藤康毅",
+    "category": "Book",
+    "hero": "zerodeep1.jpg",
+    "ref": "https://www.amazon.co.jp/dp/4873117585"
+  },
+  {
+    "title": "オブジェクト指向でなぜつくるのか",
+    "author": "平澤章",
+    "category": "Book",
+    "hero": "object.jpg",
+    "ref": "https://www.amazon.co.jp/dp/4822284654"
+  },
+  {
+    "title": "影響力の武器[第三版]: なぜ、人は動かされるのか",
+    "author": "ロバート・B・チャルディーニ",
+    "category": "Book",
+    "hero": "effective.jpg",
+    "ref": "https://www.amazon.co.jp/dp/4414304229"
+  },
+  {
+    "title": "問いかける技術 ― 確かな人間関係と優れた組織をつくる",
+    "author": "エドガー・Ｈ・シャイン",
+    "category": "Book",
+    "hero": "humbleinquiry.jpg",
+    "ref": "https://www.amazon.co.jp/dp/B00PY6XVAQ"
+  },
+  {
+    "title": "分散システムデザインパターン ―コンテナを使ったスケーラブルなサービスの設計",
+    "author": "Brendan Burns",
+    "category": "Book",
+    "hero": "containerdesign.jpg",
+    "ref": "https://www.amazon.co.jp/dp/4873118751"
+  },
+  {
+    "title": "THE TEAM: 5つの法則",
+    "author": "麻野耕司",
+    "category": "Book",
+    "hero": "theteam.jpg",
+    "ref": "https://www.amazon.co.jp/dp/4344034546"
+  },
+  {
+    "title": "カイゼン・ジャーニー",
+    "author": "市谷聡啓",
+    "category": "Book",
+    "hero": "kaizenjourney.jpg",
+    "ref": "https://www.amazon.co.jp/dp/B078HZKLMB"
+  },
+  {
+    "title": "Inspired: 顧客の心を捉える製品の創り方",
+    "author": "マーティ ケイガン",
+    "category": "Book",
+    "hero": "inspired.jpg",
+    "ref": "https://www.amazon.co.jp/dp/B00TCM8TB4"
+  },
+  {
+    "title": "管理ゼロで成果はあがる～「見直す・なくす・やめる」で組織を変えよう",
+    "author": "倉貫義人",
+    "category": "Book",
+    "hero": "kanrizero.jpg"
+  },
+  {
+    "title": "ゼロから作るDeep Learning ❷ ―自然言語処理編",
+    "author": "斎藤康毅",
+    "category": "Book",
+    "hero": "zerodeep2.jpg",
+    "ref": "https://www.amazon.co.jp/dp/4873118360"
+  },
+  {
+    "title": "Amazon Web Services 定番業務システム14パターン 設計ガイド",
+    "author": "川上明久",
+    "category": "Book",
+    "hero": "awsteiban.jpg"
+  },
+  {
+    "title": "ティール組織 ― マネジメントの常識を覆す次世代型組織の出現",
+    "author": "フレデリック・ラルー",
+    "category": "Book",
+    "hero": "teal.jpg"
+  },
+  {
+    "title": "ITエンジニアとして生き残るための指南書。 自分を守りアップデートするための18のテクニック",
+    "author": "平田豊",
+    "category": "Book",
+    "hero": "engineer18.jpg"
+  },
+  {
+    "title": "エンジニアのためのマネジメントキャリアパス",
+    "author": "Camille Fournier",
+    "category": "Book",
+    "hero": "careerpass.jpg"
+  },
+  {
+    "title": "チームが機能するとはどういうことか――「学習力」と「実行力」を高める実践アプローチ",
+    "author": "エイミー・C・エドモンドソン",
+    "category": "Book",
+    "hero": "teaming.jpg"
+  },
+  {
+  "title": "実践 IBM SPSS Modeler~顧客価値を引き上げるアナリティクス",
+  "author": "西牧洋一郎",
+  "category": "Book",
+  "hero": "spssmodeler.jpg"
+  },
+  {
+  "title": "独学プログラマー Python言語の基本から仕事のやり方まで The Self-Taught Programmer.",
+  "author": "コーリー・アルソフ",
+  "category": "Book",
+  "hero": "dokugakuprogrammer.jpg"
+  },
+  {
+  "title": "プリンシプル オブ プログラミング",
+  "author": "上田勲",
+  "category": "Book",
+  "hero": "principle.jpg"
+  },
+  {
+  "title": "業務システム開発モダナイゼーションガイド",
+  "author": "赤間信幸",
+  "category": "Book",
+  "hero": "modernization.jpg"
+  },
+  {
+  "title": "Python機械学習プログラミング 達人データサイエンティストによる理論と実践",
+  "author": "Sebastian Raschka",
+  "category": "Book",
+  "hero": "pythonmachineleaning.jpg"
+  },
+  {
+  "title": "AWS Lambda実践ガイド",
+  "author": "大澤文孝",
+  "category": "Book",
+  "hero": "awslambda.jpg"
+  },
+  {
+  "title": "Amazon Web Servicesネットワーク入門",
+  "author": "大澤文孝",
+  "category": "Book",
+  "hero": "awsnetwork.jpg"
+  },
+  {
+    "title": "エリック・エヴァンスのドメイン駆動設計",
+    "author": "Eric Evans",
+    "category": "Book",
+    "hero": "domain.jpg"
+  },
+  {
+  "title": "Effective DevOps ―4本柱による持続可能な組織文化の育て方 Effective DevOps.",
+  "author": "Jennifer Davis",
+  "category": "Book",
+  "hero": "devops.jpg"
+  },
+  {
+  "title": "エンジニアリング組織論への招待　～不確実性に向き合う思考と組織のリファクタリング",
+  "author": "広木大地",
+  "category": "Book",
+  "hero": "enginneringtheory.jpg"
+  },
+  {
+  "title": "エンジニアのためのデザイン思考入門",
+  "author": "東京工業大学エンジニアリングデザインプロジェクト",
+  "category": "Book",
+  "hero": "designthinking.jpg"
+  },
+  {
+  "title": "エッセンシャル スクラム",
+  "author": "Kenneth S. Rubin",
+  "category": "Book",
+  "hero": "essentialscrum.jpg"
+  },
+  {
+  "title": "ブロックチェーンアプリケーション開発の教科書",
+  "author": "加嵜長門",
+  "category": "Book",
+  "hero": "blockchainguide.jpg"
+  },
+  {
+  "title": "プログラマーとお仕事をするということ",
+  "author": "PatrickGleeson",
+  "category": "Book",
+  "hero": "workwithprogrammer.jpg"
+  },
+  {
+  "title": "詳解 ディープラーニング　TensorFlow・Kerasによる時系列データ処理",
+  "author": "巣籠悠輔",
+  "category": "Book",
+  "hero": "deeprnn.jpg"
+  }
+]
