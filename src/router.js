@@ -15,21 +15,25 @@ export default new Router({
       path: '/',
       name: 'home',
       component: Home,
+      meta: { title: 'Home' },
     },
     {
       path: '/about',
       name: 'about',
       component: About,
+      meta: { title: 'About' },
     },
     {
       path: '/works',
       name: 'works',
       component: Work,
+      meta: { title: 'Work' },
     },
     {
       path: '/books',
       name: 'books',
       component: Book,
+      meta: { title: 'Books' },
     },
   ],
 });

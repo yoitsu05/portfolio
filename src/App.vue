@@ -11,18 +11,34 @@
 </template>
 
 <script>
+import Drawer from '@/components/core/Drawer';
+import Footer from '@/components/core/Footer';
+import Toolbar from '@/components/core/Toolbar';
+import View from '@/components/core/View';
 export default {
   name: 'App',
   components: {
-    CoreDrawer: () => import('@/components/core/Drawer'),
-    CoreFooter: () => import('@/components/core/Footer'),
-    CoreToolbar: () => import('@/components/core/Toolbar'),
-    CoreView: () => import('@/components/core/View'),
+    CoreDrawer: Drawer,
+    CoreFooter: Footer,
+    CoreToolbar: Toolbar,
+    CoreView: View,
   },
   data() {
-    return {
-      //
-    };
+    return {};
   },
+  watch: {
+    '$route'(to, from) {
+      this.createPageTitle(to);
+    }
+  },
+  methods: {
+    createPageTitle: function (to) {
+      if (to.meta && to.meta.title) {
+        document.title = to.meta.title;
+      } else {
+        document.title = 'Portfolio';
+      }
+    },
+  }
 };
 </script>

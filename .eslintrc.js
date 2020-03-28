@@ -9,7 +9,7 @@ module.exports = {
     'cypress/globals': true,
     es6: true,
   },
-  extends: 'eslint:recommended',
+  extends: ['plugin:vue/recommended', 'eslint:recommended', 'prettier'],
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly',

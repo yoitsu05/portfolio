@@ -5,9 +5,10 @@
 </template>
 
 <script>
+import Reading from '@/components/Reading';
 export default {
   components: {
-    Reading: () => import('@/components/Reading'),
+    Reading,
   },
 };
 </script>
