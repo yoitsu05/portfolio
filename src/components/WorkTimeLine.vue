@@ -1,23 +1,12 @@
 <template>
   <v-container>
     <v-timeline>
-      <v-timeline-item
-        v-for="(work, i) in works"
-        :key="i"
-        :color="work.color"
-        small
-      >
+      <v-timeline-item v-for="(work, i) in works" :key="i" :color="work.color" small>
         <template v-slot:opposite>
-          <span
-            :class="`headline font-weight-bold ${work.color}--text`"
-            v-text="work.year"
-          />
+          <span :class="`headline font-weight-bold ${work.color}--text`" v-text="work.year" />
         </template>
 
-        <v-card
-          :color="work.color"
-          dark
-        >
+        <v-card :color="work.color" dark>
           <v-card-title class="title">
             {{ work.title }}
           </v-card-title>
@@ -30,7 +19,7 @@
             </h4>
             <p>
               {{ work.technology }}
-            </P>
+            </p>
           </v-card-text>
         </v-card>
       </v-timeline-item>
@@ -39,13 +28,11 @@
 </template>
 
 <script>
-  import {
-    mapState
-  } from 'vuex'
+import { mapState } from 'vuex';
 
-  export default {
-    computed: {
-      ...mapState(['works'])
-    }
-  }
+export default {
+  computed: {
+    ...mapState(['works']),
+  },
+};
 </script>

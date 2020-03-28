@@ -5,9 +5,9 @@
 </template>
 
 <script>
-  export default {
-    components: {
-      Reading: () => import('@/components/Reading')
-    }
-  }
+export default {
+  components: {
+    Reading: () => import('@/components/Reading'),
+  },
+};
 </script>

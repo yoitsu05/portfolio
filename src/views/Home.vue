@@ -6,12 +6,12 @@
 </template>
 
 <script>
-  export default {
-    name: 'Home',
+export default {
+  name: 'Home',
 
-    components: {
-      Banner: () => import('@/components/home/Banner'),
-      Subscribe: () => import('@/components/home/Subscribe')
-    }
-  }
+  components: {
+    Banner: () => import('@/components/home/Banner'),
+    Subscribe: () => import('@/components/home/Subscribe'),
+  },
+};
 </script>

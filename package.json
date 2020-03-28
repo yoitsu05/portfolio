@@ -1,5 +1,5 @@
 {
-  "name": "@ystk0012/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -29,8 +29,11 @@
     "babel-jest": "^23.6.0",
     "eslint": "^5.8.0",
     "eslint-config-vuetify": "*",
+    "eslint-plugin-jest": "^23.8.2",
+    "eslint-plugin-mocha": "^6.3.0",
     "eslint-plugin-vue": "^6.2.2",
     "node-sass": "^4.9.0",
+    "prettier": "^2.0.2",
     "sass-loader": "^7.0.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",

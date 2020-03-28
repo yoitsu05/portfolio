@@ -106,46 +106,46 @@
     "hero": "teaming.jpg"
   },
   {
-  "title": "実践 IBM SPSS Modeler~顧客価値を引き上げるアナリティクス",
-  "author": "西牧洋一郎",
-  "category": "Book",
-  "hero": "spssmodeler.jpg"
+    "title": "実践 IBM SPSS Modeler~顧客価値を引き上げるアナリティクス",
+    "author": "西牧洋一郎",
+    "category": "Book",
+    "hero": "spssmodeler.jpg"
   },
   {
-  "title": "独学プログラマー Python言語の基本から仕事のやり方まで The Self-Taught Programmer.",
-  "author": "コーリー・アルソフ",
-  "category": "Book",
-  "hero": "dokugakuprogrammer.jpg"
+    "title": "独学プログラマー Python言語の基本から仕事のやり方まで The Self-Taught Programmer.",
+    "author": "コーリー・アルソフ",
+    "category": "Book",
+    "hero": "dokugakuprogrammer.jpg"
   },
   {
-  "title": "プリンシプル オブ プログラミング",
-  "author": "上田勲",
-  "category": "Book",
-  "hero": "principle.jpg"
+    "title": "プリンシプル オブ プログラミング",
+    "author": "上田勲",
+    "category": "Book",
+    "hero": "principle.jpg"
   },
   {
-  "title": "業務システム開発モダナイゼーションガイド",
-  "author": "赤間信幸",
-  "category": "Book",
-  "hero": "modernization.jpg"
+    "title": "業務システム開発モダナイゼーションガイド",
+    "author": "赤間信幸",
+    "category": "Book",
+    "hero": "modernization.jpg"
   },
   {
-  "title": "Python機械学習プログラミング 達人データサイエンティストによる理論と実践",
-  "author": "Sebastian Raschka",
-  "category": "Book",
-  "hero": "pythonmachineleaning.jpg"
+    "title": "Python機械学習プログラミング 達人データサイエンティストによる理論と実践",
+    "author": "Sebastian Raschka",
+    "category": "Book",
+    "hero": "pythonmachineleaning.jpg"
   },
   {
-  "title": "AWS Lambda実践ガイド",
-  "author": "大澤文孝",
-  "category": "Book",
-  "hero": "awslambda.jpg"
+    "title": "AWS Lambda実践ガイド",
+    "author": "大澤文孝",
+    "category": "Book",
+    "hero": "awslambda.jpg"
   },
   {
-  "title": "Amazon Web Servicesネットワーク入門",
-  "author": "大澤文孝",
-  "category": "Book",
-  "hero": "awsnetwork.jpg"
+    "title": "Amazon Web Servicesネットワーク入門",
+    "author": "大澤文孝",
+    "category": "Book",
+    "hero": "awsnetwork.jpg"
   },
   {
     "title": "エリック・エヴァンスのドメイン駆動設計",
@@ -154,45 +154,45 @@
     "hero": "domain.jpg"
   },
   {
-  "title": "Effective DevOps ―4本柱による持続可能な組織文化の育て方 Effective DevOps.",
-  "author": "Jennifer Davis",
-  "category": "Book",
-  "hero": "devops.jpg"
+    "title": "Effective DevOps ―4本柱による持続可能な組織文化の育て方 Effective DevOps.",
+    "author": "Jennifer Davis",
+    "category": "Book",
+    "hero": "devops.jpg"
   },
   {
-  "title": "エンジニアリング組織論への招待　～不確実性に向き合う思考と組織のリファクタリング",
-  "author": "広木大地",
-  "category": "Book",
-  "hero": "enginneringtheory.jpg"
+    "title": "エンジニアリング組織論への招待　～不確実性に向き合う思考と組織のリファクタリング",
+    "author": "広木大地",
+    "category": "Book",
+    "hero": "enginneringtheory.jpg"
   },
   {
-  "title": "エンジニアのためのデザイン思考入門",
-  "author": "東京工業大学エンジニアリングデザインプロジェクト",
-  "category": "Book",
-  "hero": "designthinking.jpg"
+    "title": "エンジニアのためのデザイン思考入門",
+    "author": "東京工業大学エンジニアリングデザインプロジェクト",
+    "category": "Book",
+    "hero": "designthinking.jpg"
   },
   {
-  "title": "エッセンシャル スクラム",
-  "author": "Kenneth S. Rubin",
-  "category": "Book",
-  "hero": "essentialscrum.jpg"
+    "title": "エッセンシャル スクラム",
+    "author": "Kenneth S. Rubin",
+    "category": "Book",
+    "hero": "essentialscrum.jpg"
   },
   {
-  "title": "ブロックチェーンアプリケーション開発の教科書",
-  "author": "加嵜長門",
-  "category": "Book",
-  "hero": "blockchainguide.jpg"
+    "title": "ブロックチェーンアプリケーション開発の教科書",
+    "author": "加嵜長門",
+    "category": "Book",
+    "hero": "blockchainguide.jpg"
   },
   {
-  "title": "プログラマーとお仕事をするということ",
-  "author": "PatrickGleeson",
-  "category": "Book",
-  "hero": "workwithprogrammer.jpg"
+    "title": "プログラマーとお仕事をするということ",
+    "author": "PatrickGleeson",
+    "category": "Book",
+    "hero": "workwithprogrammer.jpg"
   },
   {
-  "title": "詳解 ディープラーニング　TensorFlow・Kerasによる時系列データ処理",
-  "author": "巣籠悠輔",
-  "category": "Book",
-  "hero": "deeprnn.jpg"
+    "title": "詳解 ディープラーニング　TensorFlow・Kerasによる時系列データ処理",
+    "author": "巣籠悠輔",
+    "category": "Book",
+    "hero": "deeprnn.jpg"
   }
 ]

@@ -1,9 +1,9 @@
 module.exports = {
   devServer: {
-    disableHostCheck: true
+    disableHostCheck: true,
   },
   configureWebpack: {
-    devtool: 'source-map'
+    devtool: 'source-map',
   },
-  publicPath: 'portfolio'
-}
+  publicPath: 'portfolio',
+};

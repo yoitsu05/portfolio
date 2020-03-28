@@ -1,4 +1,3 @@
-
 <template>
   <v-app>
     <core-toolbar />
@@ -13,17 +12,17 @@
 
 <script>
 export default {
-  name: "App",
+  name: 'App',
   components: {
-    CoreDrawer: () => import("@/components/core/Drawer"),
-    CoreFooter: () => import("@/components/core/Footer"),
-    CoreToolbar: () => import("@/components/core/Toolbar"),
-    CoreView: () => import("@/components/core/View")
+    CoreDrawer: () => import('@/components/core/Drawer'),
+    CoreFooter: () => import('@/components/core/Footer'),
+    CoreToolbar: () => import('@/components/core/Toolbar'),
+    CoreView: () => import('@/components/core/View'),
   },
   data() {
     return {
       //
     };
-  }
+  },
 };
 </script>

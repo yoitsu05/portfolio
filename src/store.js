@@ -1,7 +1,7 @@
-import Vue from 'vue'
-import Vuex from 'vuex'
+import Vue from 'vue';
+import Vuex from 'vuex';
 
-Vue.use(Vuex)
+Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
@@ -11,30 +11,28 @@ export default new Vuex.Store({
     items: [
       {
         text: 'Home',
-        to: '/'
+        to: '/',
       },
       {
         text: 'About',
-        to: '/about'
+        to: '/about',
       },
       {
         text: 'Work',
-        to: '/works'
+        to: '/works',
       },
       {
         text: 'Book',
-        to: '/books'
-      }
-    ]
+        to: '/books',
+      },
+    ],
   },
   getters: {
-    links: state => state.items
+    links: (state) => state.items,
   },
   mutations: {
-    setDrawer: (state, payload) => state.drawer = payload,
-    toggleDrawer: state => state.drawer = !state.drawer
+    setDrawer: (state, payload) => (state.drawer = payload),
+    toggleDrawer: (state) => (state.drawer = !state.drawer),
   },
-  actions: {
-
-  }
-})
+  actions: {},
+});

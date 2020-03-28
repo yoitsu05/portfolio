@@ -5,9 +5,9 @@
 </template>
 
 <script>
-  export default {
-    components: {
-      WorkTimeLine: () => import('@/components/WorkTimeLine')
-    }
-  }
+export default {
+  components: {
+    WorkTimeLine: () => import('@/components/WorkTimeLine'),
+  },
+};
 </script>

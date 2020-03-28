@@ -1,26 +1,12 @@
 <template>
-  <v-flex
-    xs6
-    :class="classes"
-  >
-    <base-card
-      height="350"
-      color="grey lighten-1"
-      dark
-      :href="value.ref"
-      target="_blank"
-    >
+  <v-flex xs6 :class="classes">
+    <base-card height="350" color="grey lighten-1" dark :href="value.ref" target="_blank">
       <v-img
         :src="require(`@/assets/reading/${value.hero}`)"
         height="100%"
         gradient="rgba(0, 0, 0, .8), rgba(0, 0, 0, .5)"
       >
-        <v-layout
-          fill-height
-          wrap
-          text-xs-right
-          ma-0
-        >
+        <v-layout fill-height wrap text-xs-right ma-0>
           <v-flex xs12>
             <v-chip
               label
@@ -46,32 +32,32 @@
 </template>
 
 <script>
-  export default {
-    props: {
-      size: {
-        type: Number,
-        required: true
-      },
-      value: {
-        type: Object,
-        default: () => ({})
-      }
+export default {
+  props: {
+    size: {
+      type: Number,
+      required: true,
     },
+    value: {
+      type: Object,
+      default: () => ({}),
+    },
+  },
 
-    computed: {
-      classes () {
-        return {
-          'md6': this.size === 2,
-          'md4': this.size === 3,
-          'md3': this.size === 4
-        }
-      }
-    }
-  }
+  computed: {
+    classes() {
+      return {
+        md6: this.size === 2,
+        md4: this.size === 3,
+        md3: this.size === 4,
+      };
+    },
+  },
+};
 </script>
 
 <style>
 .v-image__image {
-  transition: .3s linear;
+  transition: 0.3s linear;
 }
 </style>
