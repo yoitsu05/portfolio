@@ -27,7 +27,7 @@ export default new Router({
       path: '/works',
       name: 'works',
       component: Work,
-      meta: { title: 'Work' },
+      meta: { title: 'Works' },
     },
     {
       path: '/books',

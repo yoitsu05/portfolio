@@ -1,11 +1,8 @@
 <template>
   <v-app>
     <core-toolbar />
-
     <core-drawer />
-
     <core-view />
-
     <core-footer />
   </v-app>
 </template>
@@ -27,9 +24,10 @@ export default {
     return {};
   },
   watch: {
-    '$route'(to, from) {
+    $route(to, from) {
       this.createPageTitle(to);
-    }
+      if (window.tracker) window.tracker.view();
+    },
   },
   methods: {
     createPageTitle: function (to) {
@@ -39,6 +37,6 @@ export default {
         document.title = 'Portfolio';
       }
     },
-  }
+  },
 };
 </script>

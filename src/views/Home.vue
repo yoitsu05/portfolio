@@ -6,12 +6,14 @@
 </template>
 
 <script>
+import Banner from '@/components/home/Banner'
+import Subscribe from '@/components/home/Subscribe'
 export default {
   name: 'Home',
 
   components: {
-    Banner: () => import('@/components/home/Banner'),
-    Subscribe: () => import('@/components/home/Subscribe'),
+    Banner,
+    Subscribe
   },
 };
 </script>
