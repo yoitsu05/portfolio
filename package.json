@@ -33,7 +33,7 @@
     "eslint-plugin-jest": "^23.8.2",
     "eslint-plugin-mocha": "^6.3.0",
     "eslint-plugin-vue": "^6.2.2",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "prettier": "^2.0.2",
     "prettier-eslint": "^9.0.1",
     "sass-loader": "^7.0.1",
